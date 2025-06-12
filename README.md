@@ -9,8 +9,8 @@ This project is a sophisticated, real-time gesture control application built wit
 - **Gesture Controls**:
   - ✊ Fist: Play/Pause
   - ✌️ Peace Sign: Drawing mode
-  - 👍 Thumbs Up: Volume Up
-  - 👎 Thumbs Down: Volume Down
+  - 👍 Thumbs Up: Screen up
+  - 👎 Thumbs Down: Screen Down
 
 - **AI Screenshot Tool**:
   - Capture any screen region
