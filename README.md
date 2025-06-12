@@ -3,6 +3,26 @@
 This project is a sophisticated, real-time gesture control application built with Python. It allows you to control your computer, particularly media applications like YouTube, using hand gestures captured through your webcam. It also features a transparent, interactive overlay with drawing and screenshot capabilities.
 
 ---
+
+## Features 
+
+- **Gesture Controls**:
+  - ✊ Fist: Play/Pause
+  - ✌️ Peace Sign: Drawing mode
+  - 👍 Thumbs Up: Volume Up
+  - 👎 Thumbs Down: Volume Down
+
+- **AI Screenshot Tool**:
+  - Capture any screen region
+  - Copy to clipboard for AI analysis
+  - Save with timestamp
+
+- **Drawing Overlay**:
+  - Annotate directly on screen
+  - Customizable pen color/size
+ 
+---
+
 Gesture demo: ()
 
 ---
@@ -71,30 +91,6 @@ Key functionalities, such as system hotkeys (`pyautogui.hotkey('option', 'up')`)
 
 ---
 
-## ▶️ How to Use
-
-1.  Make sure your webcam is connected and accessible. Your OS may ask for permission to allow the application to access the camera.
-2.  Run the main script from your terminal:
-    ```bash
-    python main.py
-    ```
-3.  Two windows will appear:
-    * An **OpenCV window** named 'Gesture Controller' showing the raw camera feed with hand landmarks.
-    * A **transparent, full-screen overlay** with control buttons at the top-left.
-4.  Position your hand in front of the camera and use the gestures outlined below to control your system.
-
----
-
-## 🙌 Gesture Guide
-
-| Gesture | Action | Feedback |
-| :--- | :--- | :--- |
-| **Fist** | Toggles Play/Pause (sends `space` key) | "Play/Pause" |
-| **Thumbs Up** | Increases Volume | "Volume Up" |
-| **Thumbs Down** | Decreases Volume | "Volume Down" |
-| **Peace Sign** | Enters/Exits Drawing Mode | "Drawing Mode" |
-
----
 
 ## 🎨 Overlay Controls
 
