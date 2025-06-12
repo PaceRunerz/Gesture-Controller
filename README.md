@@ -23,7 +23,7 @@ This project is a sophisticated, real-time gesture control application built wit
  
 ---
 
-Gesture demo: ()
+Gesture demo: ( coming soon...)
 
 ---
 
