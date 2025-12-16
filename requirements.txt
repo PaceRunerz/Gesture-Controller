@@ -6,7 +6,5 @@ numpy==1.26.4
 pillow==10.2.0
 pyobjc==10.2
 
-jk kjjkjn
- kj 
-/biukn
-jbikbj
+
+bj
