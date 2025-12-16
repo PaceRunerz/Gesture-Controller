@@ -7,6 +7,6 @@ pillow==10.2.0
 pyobjc==10.2
 
 jk kjjkjn
-
+ kj 
 /biu
 jbikbj
